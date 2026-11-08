@@ -62,7 +62,25 @@ These observations are recorded as a partial trial. We do not claim to have succ
 
 ## Repository Structure
 
-The research, solution design, implementation planning, and final proposal will be organized into separate folders as the project develops.
+The repository is organized into the following sections:
+
+unvibecode-track2-adoption/
+│
+├── README.md
+│
+├── research/
+│   ├── challenge-understanding.md
+│   ├── adoption-problem.md
+│   └── trial-observations.md
+│
+├── solution/
+│   ├── proposed-solution.md
+│   ├── user-workflow.md
+│   └── technical-architecture.md
+│
+├── implementation/
+│
+└── submission/
 
 ## Submission Note
 
